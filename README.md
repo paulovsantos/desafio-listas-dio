@@ -1,5 +1,7 @@
-#### Códigos de desafios da plataforma de ensino DIO
-<img src="https://github.com/user-attachments/assets/fd9cb608-ac51-40d6-9342-8c54c84b2c6e" alt="Descrição da imagem" width="100">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/fd9cb608-ac51-40d6-9342-8c54c84b2c6e" alt="Descrição da imagem" width="100" style="margin-right: 10px;">
+  <h4>Códigos de desafios da plataforma de ensino DIO</h4>
+</div>
 
 1. Utilização do split - [Link](https://blog.betrybe.com/python/python-split/) 
 2. Manipulação de strings - [Link](https://www.bosontreinamentos.com.br/programacao-em-python/08-1-python-strings-02-metodos-aplicados-a-strings/) 
