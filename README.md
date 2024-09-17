@@ -1,6 +1,6 @@
 #### Códigos de desafios da plataforma de ensino DIO
 
-![NTT DATA - Engenharia de Dados com Python]([URL da imagem](https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png))
+[![Logo_Google_2013_Official svg](https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png]
 
 1. Utilização do split - [Link](https://blog.betrybe.com/python/python-split/) 
 2. Manipulação de strings - [Link](https://www.bosontreinamentos.com.br/programacao-em-python/08-1-python-strings-02-metodos-aplicados-a-strings/) 
