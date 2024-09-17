@@ -1,5 +1,5 @@
+<h4>Códigos de desafios da plataforma de ensino DIO</h4>
 <div style="display: inline_block">
-  <h4>Códigos de desafios da plataforma de ensino DIO</h4>
   <img src="https://github.com/user-attachments/assets/fd9cb608-ac51-40d6-9342-8c54c84b2c6e" alt="Descrição da imagem" width="100" style="margin-right: 10px;">
 </div>
 
